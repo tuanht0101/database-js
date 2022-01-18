@@ -1,5 +1,4 @@
 # database-js
-
 [![Build Status](https://travis-ci.org/mlaanderson/database-js.svg?branch=master)](https://travis-ci.org/mlaanderson/database-js)
 [![npm version](https://badge.fury.io/js/database-js.svg)](https://badge.fury.io/js/database-js)
 [![Mentioned in Awesome Node.js](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-nodejs)
